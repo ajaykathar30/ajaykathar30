@@ -52,12 +52,14 @@
 Jobify is a job portal application site specially made for freshers and students to grab job opportunity.
 
 **My Role:**  
-- Designed and developed the **complete frontend and backend** of the platform  
-- Built a secure **authentication system** for both students and recruiters  
-- Implemented **job posting and application workflows**  
-- Added advanced **search and filter functionality** for jobs  
-- Developed dedicated **recruiter and student profile dashboards**  
-- Integrated **MongoDB** for database management and **Cloudinary** for media storage  
+**My Role:**  
+- 🖥️ Designed and developed the **complete frontend and backend** of the platform  
+- 🔐 Built a secure **authentication system** for both students and recruiters  
+- 📄 Implemented **job posting and application workflows**  
+- 🔎 Added advanced **search and filter functionality** for jobs  
+- 👥 Developed dedicated **recruiter and student profile dashboards**  
+- 🗄️ Integrated **MongoDB** for database management and ☁️ **Cloudinary** for media storage  
+
 
 **Technologies Used:**  
 `React.js` • `Redux Toolkit` • `shadcn/ui` • `lucide-react` • `MongoDB` • `Mongoose` • `Cloudinary`
@@ -82,7 +84,7 @@ Jobify is a job portal application site specially made for freshers and students
 - 🧠 Solving coding puzzles
 
 ## 📫 How to reach me
-- [LinkedIn](www.linkedin.com/in/ajay-kathar-5875b6323)
+- [LinkedIn](https://www.linkedin.com/in/ajay-kathar-5875b6323)
 - [CodeForces](https://codeforces.com/profile/ajaykathar30)
 - [CodeChef](https://www.codechef.com/users/ajay_kathar)
 
