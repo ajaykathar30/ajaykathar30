@@ -67,8 +67,8 @@ Jobify is a job portal application site specially made for freshers and students
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aj-Levi&show_icons=true&theme=radical&v=2" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aj-Levi&layout=compact&theme=radical&v=2" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajaykathar30&show_icons=true&theme=radical&v=2" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykathar30&layout=compact&theme=radical&v=2" />
 </p>
 
 ## 🎯 Future Goals
