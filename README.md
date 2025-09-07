@@ -52,7 +52,6 @@
 Jobify is a job portal application site specially made for freshers and students to grab job opportunity.
 
 **My Role:**  
-**My Role:**  
 - 🖥️ Designed and developed the **complete frontend and backend** of the platform  
 - 🔐 Built a secure **authentication system** for both students and recruiters  
 - 📄 Implemented **job posting and application workflows**  
