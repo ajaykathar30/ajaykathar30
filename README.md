@@ -30,7 +30,6 @@
 - 📦 &nbsp;**State Management**  
   ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-333333?style=flat&logo=redux)
   ![RTK Query](https://img.shields.io/badge/-RTK%20Query-333333?style=flat&logo=redux)
-  ![Zustand](https://img.shields.io/badge/-Zustand-333333?style=flat&logo=zustand)
 
 - 🧰 &nbsp;**Tools & Utilities**  
   ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -41,7 +40,7 @@
   ![bcrypt](https://img.shields.io/badge/-bcrypt-333333?style=flat&logo=)
 
 - 🚀 &nbsp;**Deployment**  
-  ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
+  ![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=vercel)
 
 
 ## 🌟 Projects
