@@ -2,12 +2,11 @@
 
 ## 🎓 About Me
 - 🏫 Second year B.Tech undergraduate in Information Technology at Indian Institute of Information Technology Allahabad
-- 💻 Passionate about competitive programming and full-stack development
-- 🌱 Currently learning and growing my skills in Agentic Ai and Web-D
-- 🎯 Aiming to become a proficient software engineer
+- 💻 I like to do competitive programming and Full-stack development.
+- 🌱 Currently learning Agentic Ai .
 
 ## 🏆 Competitive Programming
-- 🟢 Pupil on Codeforces
+- Specialist on Codeforces
 - ⭐⭐⭐ 3-star coder on CodeChef
 
 ## 🛠 Tech Stack
