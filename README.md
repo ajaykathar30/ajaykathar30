@@ -4,7 +4,6 @@
 - 🏫 Second year B.Tech undergraduate in Information Technology at **IIIT Allahabad**
 - 💻 Passionate about competitive programming and full-stack development
 - 🤖 Currently learning **Agentic AI** — building with LangChain, LangGraph & CrewAI
-- 📍 CGPA: **8.69**
 
 ---
 
@@ -99,14 +98,6 @@ DSA practice platform with curated, category-wise questions to sharpen problem-s
 
 ---
 
-## 🏅 Achievements
-- 🥇 **JEE Mains 2024** — AIR **7118** | **99.56 percentile**
-- 🥈 **JEE Advanced 2024** — AIR **7681**
-- ⚡ Codeforces **Specialist** — 1444 rated
-- ⭐⭐⭐ CodeChef **3-star**
-- 💯 **500+** problems solved | LeetCode max rating **1727**
-
----
 
 ## 🎯 Future Goals
 - 🚀 Master Agentic AI and LLM-powered systems
