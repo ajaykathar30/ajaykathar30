@@ -92,8 +92,8 @@ DSA practice platform with curated, category-wise questions to sharpen problem-s
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajaykathar30&show_icons=true&theme=radical&v=2" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykathar30&layout=compact&theme=radical&v=2" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajaykathar30&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykathar30&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
 
 ---
