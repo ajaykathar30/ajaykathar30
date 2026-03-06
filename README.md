@@ -1,68 +1,95 @@
 # 👋 Hi there, I'm Ajay Kathar!
 
 ## 🎓 About Me
-- 🏫 Second year B.Tech undergraduate in Information Technology at Indian Institute of Information Technology Allahabad
-- 💻 I like to do competitive programming and Full-stack development.
-- 🌱 Currently learning Agentic Ai .
+- 🏫 Second year B.Tech undergraduate in Information Technology at **IIIT Allahabad**
+- 💻 Passionate about competitive programming and full-stack development
+- 🤖 Currently learning **Agentic AI** — building with LangChain, LangGraph & CrewAI
+- 📍 CGPA: **8.69**
+
+---
 
 ## 🏆 Competitive Programming
-- Specialist on Codeforces
-- ⭐⭐⭐ 3-star coder on CodeChef
+- **Specialist** (1444 rated) on Codeforces → [Profile](https://codeforces.com/profile/ajaykathar30)
+- ⭐⭐⭐ **3-star** coder on CodeChef → [Profile](https://www.codechef.com/users/ajay_kathar)
+- Solved **500+** problems | Max rating **1727** on LeetCode → [Profile](https://leetcode.com/u/ajay_kathar/)
+
+---
 
 ## 🛠 Tech Stack
 
-- 💻 &nbsp;**Languages & Frameworks**  
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+- 💻 &nbsp;**Languages**  
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+
+- 🌐 &nbsp;**Frontend**  
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
+  ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-333333?style=flat&logo=redux)
+  ![DaisyUI](https://img.shields.io/badge/-DaisyUI-333333?style=flat&logo=daisyui)
+  ![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-333333?style=flat&logo=react)
+
+- 🔧 &nbsp;**Backend**  
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
-
-- 🎨 &nbsp;**Styling**  
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
-  ![DaisyUI](https://img.shields.io/badge/-DaisyUI-333333?style=flat&logo=daisyui)
-
-- 🌐 &nbsp;**Backend & APIs**  
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=mongoose)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-- 📦 &nbsp;**State Management**  
-  ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-333333?style=flat&logo=redux)
-  ![RTK Query](https://img.shields.io/badge/-RTK%20Query-333333?style=flat&logo=redux)
+- 🤖 &nbsp;**Agentic AI / LLM**  
+  ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=python)
+  ![LangGraph](https://img.shields.io/badge/-LangGraph-333333?style=flat&logo=python)
+  ![CrewAI](https://img.shields.io/badge/-CrewAI-333333?style=flat&logo=python)
+  ![Gemini](https://img.shields.io/badge/-Google%20Gemini-333333?style=flat&logo=google)
 
-- 🧰 &nbsp;**Tools & Utilities**  
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- 🧰 &nbsp;**Tools & Deployment**  
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![ImageKit](https://img.shields.io/badge/-ImageKit-333333?style=flat&logo=imagekit)
-  ![React Toastify](https://img.shields.io/badge/-React%20Toastify-333333?style=flat&logo=react)
-  ![bcrypt](https://img.shields.io/badge/-bcrypt-333333?style=flat&logo=)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Cloudinary](https://img.shields.io/badge/-Cloudinary-333333?style=flat&logo=cloudinary)
+  ![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
 
-- 🚀 &nbsp;**Deployment**  
-  ![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=vercel)
-
+---
 
 ## 🌟 Projects
 
-### 💼 Jobify - Job Portal Application
+### 💼 Jobify — Job Portal
+Job portal where students browse **50+ listings** and companies post openings, with real-time search and filtering.
 
-**Description:**  
-Jobify is a job portal application site specially made for freshers and students to grab job opportunity.
+- 🔐 JWT authentication with role-based access for students and recruiters
+- 🤖 **AI Resume Analyzer** — scores resumes and highlights strengths and areas of improvement
+- 📊 **AI Candidate Ranking** — ranks applicants per job using **vector embeddings** and **cosine similarity**
+- 🎨 Smooth UI animations with **Framer Motion**
 
-**My Role:**  
-- 🖥️ Designed and developed the **complete frontend and backend** of the platform  
-- 🔐 Built a secure **authentication system** for both students and recruiters  
-- 📄 Implemented **job posting and application workflows**  
-- 🔎 Added advanced **search and filter functionality** for jobs  
-- 👥 Developed dedicated **recruiter and student profile dashboards**  
-- 🗄️ Integrated **MongoDB** for database management and ☁️ **Cloudinary** for media storage  
+**Stack:** `ReactJS` • `TailwindCSS` • `NodeJS` • `MongoDB` • `Shadcn UI`  
+🔗 [Live](https://jobify-frontend-4lxx.onrender.com/) • [Code](https://github.com/ajaykathar30/Jobify)
 
+---
 
-**Technologies Used:**  
-`React.js` • `Redux Toolkit` • `shadcn/ui` • `lucide-react` • `MongoDB` • `Mongoose` • `Cloudinary`
+### 🤖 AutoFlow — Social Media Automation Pipeline
+End-to-end Instagram content pipeline: scrapes trending education/job news, generates AI image cards via **Gemini**, and auto-publishes via **Meta Graph API**.
 
-**🔗 Repository:**  
-[GitHub Repository](https://github.com/ajaykathar30/Jobify.git)
+- 🔗 **LangGraph** multi-stage workflow with **LangChain + Gemini** for merging, classifying, and summarizing news
+- 🧠 **Dual deduplication** via title similarity and keyword buffers in **MongoDB** prevents accidental reposts
+- 👤 Human-in-the-loop approval layer — users control generation and publishing decisions
+- ☁️ **Cloudinary** for cloud media management and **Playwright** for dynamic web scraping
+
+**Stack:** `Python` • `LangGraph` • `LangChain` • `Gemini` • `MongoDB` • `Playwright` • `Cloudinary` • `Meta Graph API`  
+🔗 [Code](https://github.com/Aryan-coder06/AutoFlow)
+
+---
+
+### 🧠 CodeRed — DSA Practice App
+DSA practice platform with curated, category-wise questions to sharpen problem-solving skills.
+
+- 🔖 Question bookmarking and completion tracking
+- 🛡️ Rate limiting for security, seeder scripts for data population
+
+**Stack:** `ReactJS` • `TailwindCSS` • `NodeJS` • `ExpressJS` • `MongoDB` • `DaisyUI`  
+🔗 [Live](https://codered-frontend.onrender.com/) • [Code](https://github.com/ajaykathar30/CodeRed)
+
+---
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -70,19 +97,37 @@ Jobify is a job portal application site specially made for freshers and students
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykathar30&layout=compact&theme=radical&v=2" />
 </p>
 
+---
+
+## 🏅 Achievements
+- 🥇 **JEE Mains 2024** — AIR **7118** | **99.56 percentile**
+- 🥈 **JEE Advanced 2024** — AIR **7681**
+- ⚡ Codeforces **Specialist** — 1444 rated
+- ⭐⭐⭐ CodeChef **3-star**
+- 💯 **500+** problems solved | LeetCode max rating **1727**
+
+---
+
 ## 🎯 Future Goals
-- 🚀 Improve my competitive programming skills
-- 💻 Master full-stack development
+- 🚀 Master Agentic AI and LLM-powered systems
+- 💻 Keep building impactful full-stack products
 - 🌐 Contribute to open-source projects
-- 📚 Learn new technologies and stay updated with industry trends
+- 📈 Push Codeforces rating to Expert
+
+---
 
 ## 🎨 Hobbies
-- ⚽ Playing football  
+- ⚽ Playing football
 - 🧠 Solving coding puzzles
+
+---
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/ajay-kathar-5875b6323)
-- [CodeForces](https://codeforces.com/profile/ajaykathar30)
+- [Codeforces](https://codeforces.com/profile/ajaykathar30)
 - [CodeChef](https://www.codechef.com/users/ajay_kathar)
+- [LeetCode](https://leetcode.com/u/ajay_kathar/)
+
+---
 
 ⭐️ From [Ajay Kathar](https://github.com/ajaykathar30)
