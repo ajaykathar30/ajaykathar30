@@ -53,11 +53,24 @@
 
 ## 🌟 Projects
 
-### 💼 Jobify — Job Portal
-Job portal where students browse **50+ listings** and companies post openings, with real-time search and filtering.
+### 🧬 Biomedical Research Copilot — AI Research Assistant
+An AI copilot that answers biomedical questions with **citation-backed** responses grounded in live research papers, clinical trials, and drug-safety data.
 
-- 🔐 JWT authentication with role-based access for students and recruiters
-- 🤖 **AI Resume Analyzer** — scores resumes and highlights strengths and areas of improvement
+- 🔐 **FastAPI** backend with **JWT auth**, Postgres-persisted chat threads, and **SSE real-time token streaming** to the React client
+- 🧩 Decoupled **MCP server** (FastMCP) exposing **4 tools** across **3 external APIs** — PubMed, ClinicalTrials.gov & openFDA
+- ⚡ **pgvector** semantic caching with parallel async calls, cutting repeat-query latency by **~70%**
+- 🕸️ **4-node LangGraph** pipeline over **Gemini 2.5 Flash** for grounded, source-cited answers
+
+**Stack:** `Python` • `FastAPI` • `PostgreSQL` • `pgvector` • `MCP` • `LangGraph` • `React` • `Docker`  
+🔗 [Live](https://medical-research-agent-1-727k.onrender.com/) • [Code](https://github.com/ajaykathar30/Medical_Research_Agent)
+
+---
+
+### 💼 Jobify — Job Portal
+A job portal where students browse **50+ listings** and recruiters post openings, with real-time search and filtering.
+
+- 🔐 **JWT authentication** with role-based access for students and recruiters
+- 🤖 **AI Resume Analyzer** — scores resumes and surfaces strengths and areas to improve in structured JSON
 - 📊 **AI Candidate Ranking** — ranks applicants per job using **vector embeddings** and **cosine similarity**
 - 🎨 Smooth UI animations with **Framer Motion**
 
@@ -67,34 +80,15 @@ Job portal where students browse **50+ listings** and companies post openings, w
 ---
 
 ### 🤖 AutoFlow — Social Media Automation Pipeline
-End-to-end Instagram content pipeline: scrapes trending education/job news, generates AI image cards via **Gemini**, and auto-publishes via **Meta Graph API**.
+An end-to-end Instagram pipeline that scrapes trending education/job news, generates AI image cards via **Gemini**, and auto-publishes through the **Meta Graph API**.
 
-- 🔗 **LangGraph** multi-stage workflow with **LangChain + Gemini** for merging, classifying, and summarizing news
-- 🧠 **Dual deduplication** via title similarity and keyword buffers in **MongoDB** prevents accidental reposts
-- 👤 Human-in-the-loop approval layer — users control generation and publishing decisions
-- ☁️ **Cloudinary** for cloud media management and **Playwright** for dynamic web scraping
+- 🕸️ **LangGraph** multi-stage workflow with **LangChain + Gemini** to merge, classify, and summarize news
+- 🧠 **Dual deduplication** via title similarity and keyword buffers in **MongoDB** to prevent reposts
+- 👤 Human-in-the-loop approval layer giving users control over generation and publishing
+- ☁️ **Cloudinary** for media management and **Playwright** for dynamic web scraping
 
 **Stack:** `Python` • `LangGraph` • `LangChain` • `Gemini` • `MongoDB` • `Playwright` • `Cloudinary` • `Meta Graph API`  
-🔗 [Code](https://github.com/Aryan-coder06/AutoFlow)
-
----
-
-### 🧠 CodeRed — DSA Practice App
-DSA practice platform with curated, category-wise questions to sharpen problem-solving skills.
-
-- 🔖 Question bookmarking and completion tracking
-- 🛡️ Rate limiting for security, seeder scripts for data population
-
-**Stack:** `ReactJS` • `TailwindCSS` • `NodeJS` • `ExpressJS` • `MongoDB` • `DaisyUI`  
-🔗 [Live](https://codered-frontend.onrender.com/) • [Code](https://github.com/ajaykathar30/CodeRed)
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=ajaykathar30&theme=radical" />
-</p>
-
+🔗 [Code](https://github.com/ajaykathar30/AutoFlow)
 ---
 
 
