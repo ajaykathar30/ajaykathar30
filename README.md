@@ -89,6 +89,7 @@ An end-to-end Instagram pipeline that scrapes trending education/job news, gener
 
 **Stack:** `Python` • `LangGraph` • `LangChain` • `Gemini` • `MongoDB` • `Playwright` • `Cloudinary` • `Meta Graph API`  
 🔗 [Code](https://github.com/ajaykathar30/AutoFlow)
+
 ---
 
 
