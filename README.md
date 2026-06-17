@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Ajay Kathar!
 
 ## 🎓 About Me
-- 🏫 Second year B.Tech undergraduate in Information Technology at **IIIT Allahabad**
+- 🏫 Third year B.Tech undergraduate in Information Technology at **IIIT Allahabad**
 - 💻 Passionate about competitive programming and full-stack development
 - 🤖 Currently learning **Agentic AI** — building with LangChain, LangGraph & CrewAI
 
